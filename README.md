@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gauravmehta121
 - 👀 I’m interested in Software Engineer (Backend) roles  , site reliability engineer roles
-- 🌱 I’m am candidate masters in codeforces with a rating more than 2087, two time ICPC regionalist , two digit rank holder in Kickstart , 
+- 🌱 I’m am candidate masters in codeforces with a rating more than 2087, two time ICPC regionalist , two digit rank holder in google  Kickstart 2020 , 
 - 💞️ I’m looking to collaborate on in backend  projects, site reliabilty projects
 
 - 📫 How to reach me email- mehtagaurv123@gmail.com
